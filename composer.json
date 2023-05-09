@@ -1,0 +1,21 @@
+{
+    "name": "oxid-support/admin-menu-extension",
+    "description": "Adds a new admin page with tabs.",
+    "type": "oxideshop-module",
+    "keywords": ["oxid", "modules", "eShop"],
+    "homepage": "https://www.oxid-esales.com/en/home.html",
+    "license": [
+        "GPL-3.0-only",
+        "proprietary"
+    ],
+    "extra": {
+        "oxideshop": {
+            "target-directory": "oxs/oxsadminmenuext"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "OxidSupport\\AdminMenuExtension\\": "../../../source/modules/oxs/oxsadminmenuext"
+        }
+    }
+}
