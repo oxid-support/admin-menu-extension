@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OX>
     <OXMENU id="NAVIGATION_ESHOPADMIN">
-        <MAINMENU id="mxexamplemenu">
-            <SUBMENU id="mxexample" cl="oxsadminmenuext_example" list="oxsadminmenuext_list">
-                <TAB id="tbcloxsadminmenuextxample_main" cl="oxsadminmenuext_main" />
-                <TAB id="tbcloxsadminmenuextxample_extends" cl="oxsadminmenuext_extends" />
+        <MAINMENU id="oxsexample_menu">
+            <SUBMENU id="oxsexample_submenu_example" cl="oxsadminmenuext_example" list="oxsadminmenuext_list">
+                <TAB id="oxsexample_tab_main" cl="oxsadminmenuext_main" />
+                <TAB id="oxsexample_tab_extends" cl="oxsadminmenuext_extends" />
             </SUBMENU>
         </MAINMENU>
     </OXMENU>
