@@ -9,10 +9,10 @@ $sMetadataVersion = '2.1';
  */
 $aModule = [
     'id' => 'oxsadminmenuext',
-    'title' => 'new admin tpl',
+    'title' => 'Adds a new admin page with tabs.',
     'description' => '',
-    'thumbnail' => 'picture.png',
-    'version' => '2.0',
+    'thumbnail' => '',
+    'version' => '1.0',
     'author' => 'OXID Support',
     'controllers' => [
         'oxsadminmenuext_example'    => \OxidSupport\AdminMenuExtension\Application\Controller\Admin\Example::class,
