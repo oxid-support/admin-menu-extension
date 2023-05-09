@@ -1,6 +1,6 @@
 # OXID Support - Example Admin Page
 
-This module adds an additional example page with two tabs to the OXID eShop administration area.
+This module adds an example page with two tabs to the OXID eShop administration area.
 
 ## Install
 
