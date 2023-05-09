@@ -24,9 +24,9 @@ $aModule = [
         'oxsadminmenuext_extends' => \OxidSupport\AdminMenuExtension\Application\Controller\Admin\ExampleExtends::class,
     ],
     'templates' => [
-        'example.tpl'         => 'oxs/adminmenuext/Application/views/admin/example.tpl',
-        'example_list.tpl'    => 'oxs/adminmenuext/Application/views/admin/example_list.tpl',
-        'example_main.tpl'    => 'oxs/adminmenuext/Application/views/admin/example_main.tpl',
-        'example_extends.tpl' => 'oxs/adminmenuext/Application/views/admin/example_extends.tpl',
+        'example.tpl'         => 'oxs/oxsadminmenuext/Application/views/admin/example.tpl',
+        'example_list.tpl'    => 'oxs/oxsadminmenuext/Application/views/admin/example_list.tpl',
+        'example_main.tpl'    => 'oxs/oxsadminmenuext/Application/views/admin/example_main.tpl',
+        'example_extends.tpl' => 'oxs/oxsadminmenuext/Application/views/admin/example_extends.tpl',
     ],
 ];
