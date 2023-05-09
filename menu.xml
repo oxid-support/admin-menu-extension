@@ -2,9 +2,9 @@
 <OX>
     <OXMENU id="NAVIGATION_ESHOPADMIN">
         <MAINMENU id="mxexamplemenu">
-            <SUBMENU id="mxexample" cl="oxsadminmenuextxample" list="oxsadminmenuextxample_list">
-                <TAB id="tbcloxsadminmenuextxample_main" cl="oxsadminmenuextxample_main" />
-                <TAB id="tbcloxsadminmenuextxample_extends" cl="oxsadminmenuextxample_extends" />
+            <SUBMENU id="mxexample" cl="oxsadminmenuext_example" list="oxsadminmenuext_list">
+                <TAB id="tbcloxsadminmenuextxample_main" cl="oxsadminmenuext_main" />
+                <TAB id="tbcloxsadminmenuextxample_extends" cl="oxsadminmenuext_extends" />
             </SUBMENU>
         </MAINMENU>
     </OXMENU>
